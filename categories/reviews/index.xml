@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>reviews on Terminal</title>
+    <link>http://www.hanspistor.com/categories/reviews/</link>
+    <description>Recent content in reviews on Terminal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://www.hanspistor.com/categories/reviews/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Gortons</title>
+      <link>http://www.hanspistor.com/fishsticks/gortons/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.hanspistor.com/fishsticks/gortons/</guid>
+      <description>I think these gave me the herpes.</description>
+    </item>
+    
+    <item>
+      <title>Van De Camps</title>
+      <link>http://www.hanspistor.com/fishsticks/van-de-camps/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.hanspistor.com/fishsticks/van-de-camps/</guid>
+      <description>If this is fish, I&amp;rsquo;ll be a monkey&amp;rsquo;s uncle.</description>
+    </item>
+    
+  </channel>
+</rss>
