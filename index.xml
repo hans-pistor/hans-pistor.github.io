@@ -2,56 +2,56 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homepage on Terminal</title>
-    <link>http://www.hanspistor.com/</link>
+    <link>https://hans-pistor.github.io/</link>
     <description>Recent content in Homepage on Terminal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://www.hanspistor.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hans-pistor.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>http://www.hanspistor.com/about/</link>
+      <link>https://hans-pistor.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.hanspistor.com/about/</guid>
+      <guid>https://hans-pistor.github.io/about/</guid>
       <description>This is the about page</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>http://www.hanspistor.com/posts/about/</link>
+      <link>https://hans-pistor.github.io/posts/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.hanspistor.com/posts/about/</guid>
+      <guid>https://hans-pistor.github.io/posts/about/</guid>
       <description>This is the about page</description>
     </item>
     
     <item>
       <title>Gortons</title>
-      <link>http://www.hanspistor.com/fishsticks/gortons/</link>
+      <link>https://hans-pistor.github.io/fishsticks/gortons/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.hanspistor.com/fishsticks/gortons/</guid>
+      <guid>https://hans-pistor.github.io/fishsticks/gortons/</guid>
       <description>I think these gave me the herpes.</description>
     </item>
     
     <item>
       <title>One Bad Night</title>
-      <link>http://www.hanspistor.com/posts/bad-night/</link>
+      <link>https://hans-pistor.github.io/posts/bad-night/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.hanspistor.com/posts/bad-night/</guid>
+      <guid>https://hans-pistor.github.io/posts/bad-night/</guid>
       <description>Someone gave me herpes! Oh no!</description>
     </item>
     
     <item>
       <title>Van De Camps</title>
-      <link>http://www.hanspistor.com/fishsticks/van-de-camps/</link>
+      <link>https://hans-pistor.github.io/fishsticks/van-de-camps/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.hanspistor.com/fishsticks/van-de-camps/</guid>
+      <guid>https://hans-pistor.github.io/fishsticks/van-de-camps/</guid>
       <description>If this is fish, I&amp;rsquo;ll be a monkey&amp;rsquo;s uncle.</description>
     </item>
     
